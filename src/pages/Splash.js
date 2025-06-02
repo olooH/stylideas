@@ -1,6 +1,5 @@
-// src/pages/Splash.js
 import React from "react";
-import logo from "../assets/logo.svg"; // svg 경로 주의!
+import logo from "../assets/logo.svg";
 
 export default function SplashScreen() {
   return (
